@@ -1,0 +1,21 @@
+table {
+    border: 1px solid blanchedalmond;
+}
+tr {
+    background-color: powderblue;
+}
+tbody tr {
+    height: 30px;
+    background-color: lightskyblue;
+}
+tbody tr td {
+    border: 1px solid lightblue;
+    text-align: center;
+}
+button {
+    margin-top: 20px;
+    background-color: #bbddee;
+    width: 80px;
+    margin-left: 100px;
+    height: 40px;
+}
